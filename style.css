@@ -1,0 +1,180 @@
+body {
+  margin: 0;
+  background-color: #f5efe6;
+  font-family: Montserrat;
+}
+
+header {
+  display: flex;
+  background-color: #f6f5f2;
+  justify-content: space-around;
+  box-sizing: border-box;
+  margin: 0 5px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.image-container {
+  float: left;
+  display: inline;
+  margin-top: 0px;
+}
+
+.logo {
+  display: inline;
+  color: orangered;
+}
+
+.first-nav a {
+  text-decoration: none;
+  color: black;
+  margin: 0 20px;
+  font-weight: 450;
+}
+
+.second-nav a {
+  text-decoration: none;
+  color: black;
+  margin: 0 20px;
+  font-weight: 450;
+}
+
+button {
+  margin-right: 5px;
+  border-radius: 15px;
+  padding: 8px;
+}
+
+.next-section {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f6f5f2;
+  border-radius: 10px;
+  margin: 40px;
+  padding: 10px;
+}
+
+.bt {
+  background-color: orangered;
+  color: white;
+  padding-left: 20px;
+  margin: 10px;
+}
+
+.image-section {
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+  position: relative;
+}
+
+.text {
+  margin-right: 0px;
+  color: white;
+  background-color: orangered;
+  padding-left: 150px;
+  height: 400px;
+  width: 1200px;
+  margin-right: 0;
+}
+
+.text2 {
+  padding-right: 50px;
+  margin-top: 50px;
+  padding-right: 100px;
+  font-weight: 900;
+  font-size: 50px;
+}
+
+.ship2 {
+  width: 700px;
+  height: 400px;
+  position: absolute;
+  right: 0px;
+}
+
+.ship {
+  margin-left: 0;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 20px;
+}
+
+.imag {
+  width: 200px;
+  height: 200px;
+  margin: 0;
+}
+
+.pox {
+  display: inline;
+  margin-right: 70%;
+  color: white;
+}
+
+.now {
+  background-color: orangered;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 60px 20px;
+}
+
+.article {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin: 20px 30px;
+}
+
+.bamba {
+  width: 400px;
+  height: 300px;
+}
+
+.travel {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 20px;
+}
+
+.amda {
+  width: 80px;
+  height: 40px;
+}
+
+.amda-one {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 30px;
+  padding: 10px 30px;
+}
+
+.com-su-new {
+  background-color: darkblue;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 20px;
+  padding: 10px 20px;
+  list-style: none;
+}
+
+.speak-us {
+  background-color: darkblue;
+  list-style: none;
+  color: white;
+  padding: 20px;
+}
+
+.tom {
+  margin: 20px;
+}
+
+.footer {
+  text-align: center;
+  background-color: darkblue;
+  color: white;
+}
